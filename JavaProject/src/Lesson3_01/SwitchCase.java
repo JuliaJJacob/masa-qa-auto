@@ -8,7 +8,7 @@ public class SwitchCase {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number in 1-3:");
 
-        int number = scanner.nextInt();
+        int number = input.nextInt();
 
         switch (number) {
             case 1:
