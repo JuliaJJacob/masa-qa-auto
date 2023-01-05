@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson4.operators;
 
 public class ExcludingOr {
     public static void main(String[] args) {
