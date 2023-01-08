@@ -29,6 +29,6 @@ public class Task_01_MaxGrade {
 
         System.out.println("Best score: " + names[index] + " Grade: " + grades[index]);
         
-// 
+//
     }
 }
